@@ -1,0 +1,55 @@
+body {
+	background: url(../images/background/background2.jpg);
+}
+
+
+h2 {
+	font-size: 35pt;
+	text-align: center;
+	color:white;
+}
+ul li {
+	text-align: center;
+	display:inline-block;
+}
+
+.me {
+	margin-top: 80px;
+}
+
+.pic{
+	display: inline-block;
+	width:49%;
+}
+
+.pic img {
+	width:400px;
+	border-top-left-radius: 20px;
+}
+
+.blurb{
+	float: right;
+	display: inline-block;
+	width:50%;
+}
+
+.blurb p{
+	color:white;
+	width:380px;
+	margin:0 auto;
+
+}
+.surround{
+	background:rgba(0,98,255,0.6);
+	border-radius: 20px;
+}
+
+p.explore {
+	padding-top: 40px;
+	color: rgb(0,98,255);
+}
+
+.explore:hover,
+.explore:focus {
+	color: white;
+}
