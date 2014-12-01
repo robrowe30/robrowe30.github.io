@@ -304,6 +304,7 @@ h5 {
 	margin:0 auto;
 }
 .icon img {
+	overflow:hidden;
 	height:100px;
 }
 
