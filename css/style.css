@@ -151,8 +151,8 @@ h5 {
 	font-weight: 600;
 	color: rgb(136,160,220);
 	text-align: center;
-	margin-bottom:20px;
-	margin-top: 80px;
+	margin-bottom:40px;
+	margin-top: 0;
 }
 
 .solution {
@@ -177,19 +177,12 @@ h5 {
 	border-radius: 3px;
 }
 
-/*.info img {
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
-	margin-bottom: -4px;
-	width:100%;
-}*/
 
 .coretext {
 	width:100%;
 	text-align: left;
 	margin: 0 auto;
 	padding:20px 0;
-	/*background: rgba(255,255,255,0.7);*/
 }
 
 .coretext p {
@@ -309,6 +302,28 @@ h5 {
 .icon img {
 	height:100px;
 }
+.restrict {
+	font-size: 0;
+}
+.restrict p {
+	width:250px;
+	margin:10px auto 0;
+}
+.restrict img {
+	max-height: 250px;
+	display: block;
+	margin:0 auto;
+}
+.restrict h2{
+	margin-top: 60px;
+	font-weight: 600;
+}
+.row2 {
+	margin-bottom: -20px;
+}
+ .space{
+	margin-bottom:0;
+}
 
 @media all and (min-width: 481px) and (max-width: 780px) {
 	body {
@@ -318,9 +333,7 @@ h5 {
 	.surround {
 		width:768px;		
 	}
-	.navcover {
-		width:768px;
-	}
+
 	.startbox {
 		width:768px;
 	}
@@ -346,11 +359,20 @@ h5 {
 	.surround {
 		width:480px;		
 	}
-	.navcover {
-		width:480px;
-	}
 	.topnav {
 		width:480px;
+		height:55px;
+	}
+	.topnav ul{
+		padding-left: 0;
+		display: block;
+		text-align: center;
+		margin-top:0;
+	}
+	.topnav ul li {
+	float:none;
+	margin:0 35px;
+	text-align: center;
 	}
 	.startbox {
 		width:480px;
@@ -424,16 +446,14 @@ h5 {
 		width:320px;
 		margin-top: 25px;		
 	}
-	.navcover {
-		width:320px;
-	}
+
 	.topnav {
 		width:320px;
-		height:55px;
+		height:70px;
 	}
 	.topnav ul li {
 	float:none;
-	margin:0 20px;
+	margin:0 10px;
 	text-align: center;
 	}
 	.topnav ul {
@@ -515,7 +535,49 @@ h5 {
 
 }
 
+@media all and (min-width: 1px) and (max-width: 480px) {
+	.blurb {
+		display: none;
+	}
+	.left {
+	display:block;
+	width:100%;
+	}
+	.left a {
+		margin-top: 40px;
+	}
+	.middle {
+	display:inline-block;
+	width:100%;
+	}
+	.middle a {
+		margin-top: 40px;
+	}
+	.right {
+	display:inline-block;
+	width:100%;
+	}
+	.right a {
+		margin-top: 40px;
+	}
+	.subheader {
+		display:block;
+		margin:0 auto;
+	}
+	.narrow img {
+		display:block;
+		margin:0 auto;
+	}
+	h1 {
+		float:none;
+		margin-left: 0;
+		text-align: center;
+	}
+	h5 {
+		margin-bottom: 0px;
+	}
 
+}
 
 
 
