@@ -690,6 +690,49 @@ h5 {
 	margin-bottom: -4px;
 	width:100%;
 	}
+		.blurb {
+		display: none;
+	}
+	.left {
+	display:block;
+	width:100%;
+	}
+	.left a {
+		margin-top: 40px;
+	}
+	.middle {
+	display:inline-block;
+	width:100%;
+	}
+	.middle a {
+		margin-top: 40px;
+	}
+	.right {
+	display:inline-block;
+	width:100%;
+	}
+	.right a {
+		margin-top: 40px;
+	}
+	.subheader {
+		display:block;
+		margin:0 auto;
+	}
+	.narrow img {
+		display:block;
+		margin:0 auto;
+	}
+	.startbox {
+		padding-top: 55px;
+	}
+	h1 {
+		float:none;
+		margin-left: 0;
+		text-align: center;
+	}
+	h5 {
+		margin-bottom: 0px;
+	}
 }
 
 
