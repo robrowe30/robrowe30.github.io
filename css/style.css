@@ -592,7 +592,7 @@ h5 {
 
 }
 
-@media only screen and (max-device-width: 640px), only screen and (max-device-width: 667px), only screen and (max-width: 480px){ 
+/*@media only screen and (max-device-width: 640px), only screen and (max-device-width: 667px), only screen and (max-width: 480px){ 
 	body {
 		background:url(../images/background/background2.jpg);
 		background-repeat: no-repeat;
@@ -659,12 +659,13 @@ h5 {
 		text-align: center;
 	}
 	h4 {
-		font-size: 18pt;
+		font-size: 24pt;
 		margin-top: 50px
 	}
 
 	p {
 		max-width: 90%;
+		font-size: 20pt;
 	}
 	.wire .wire5 {
 		display:none;
@@ -690,8 +691,8 @@ h5 {
 	margin-bottom: -4px;
 	width:100%;
 	}
-		.blurb {
-		display: none;
+	.blurb {
+	display: none;
 	}
 	.left {
 	display:block;
@@ -729,11 +730,12 @@ h5 {
 		float:none;
 		margin-left: 0;
 		text-align: center;
+		font-size: 30pt;
 	}
 	h5 {
 		margin-bottom: 0px;
 	}
-}
+}*/
 
 
 
