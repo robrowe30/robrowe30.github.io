@@ -1,54 +1,78 @@
-body {
-	background: url(../images/background/background2.jpg);
-}
-
-
 h2 {
 	font-size: 35pt;
 	text-align: center;
 	color:white;
 }
-ul li {
-	display:none;
-}
 
 .me {
-	margin-top: 80px;
+	padding-top: 45px;
+	position:relative;
 }
 
 .pic{
 	display: inline-block;
-	width:49%;
+	width:100%;
 }
 
 .pic img {
-	width:400px;
-	border-top-left-radius: 20px;
+	width:100%;
+	border-bottom: 3px solid rgb(136,160,220);
 }
 
 .blurb{
-	float: right;
-	display: inline-block;
+	position:absolute;
+	right:30px;
+	top:70px;
 	width:50%;
+	background: rgba(255,255,255,0.8)
 }
 
 .blurb p{
-	color:white;
-	width:380px;
+	width:400px;
 	margin:0 auto;
-
 }
-.surround{
-	background:rgba(0,98,255,0.6);
-	border-radius: 20px;
+.blurb h2 {
+	color: rgb(136,160,220);
+	margin:15px 0 15px 0;
 }
 
 p.explore {
 	padding-top: 40px;
-	color: rgb(0,98,255);
+	color: rgb(136,160,220);
 }
 
 .explore:hover,
 .explore:focus {
 	color: white;
+}
+
+
+.small img {
+	display:block;
+	border-radius: 50%;
+	width:150px;
+	margin:50px auto -80px;
+	border:3px solid rgb(136,160,220);
+
+}
+.pictop {
+	padding-top: 70px;
+	padding-bottom: 30px;
+	background: rgba(255,255,255,0.8);
+	border-top: 3px solid rgb(136,160,220);
+	border-bottom: 3px solid rgb(136,160,220);
+}
+
+.block1 p {
+	width:90%;
+	margin: 0 auto;
+}
+.block1 h4 {
+	margin-top: 20px;
+
+}
+
+
+.subheader {
+	text-align: center;
 }

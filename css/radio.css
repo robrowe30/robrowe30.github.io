@@ -1,0 +1,33 @@
+
+.start {
+	clear:both;
+	margin-top: 80px;
+}
+#solutionpic img{
+	width:80%;
+	display:block;
+	margin:0 auto;
+}
+#persona{
+	width:200px;
+	display:inline-block;
+}
+#about {
+	display:inline-block;
+	width:70%;
+	margin-left: 0;
+}
+#amy {
+	display:block;
+	width:87%;
+	margin:0 auto;
+}
+#interview{
+	width:60%;
+}
+#finalpic {
+	width:50%;
+}
+#column {
+	margin-top: 0px;
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="600px" height="400px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <g>
+            <path d="M404.06,14.0336C506.766,14.0336 590.026,97.2936 590.026,200C590.026,302.706 506.766,385.966 404.06,385.966C301.353,385.966 218.093,302.706 218.093,200C218.093,97.2936 301.353,14.0336 404.06,14.0336Z" style="fill:none;stroke-width:6px;stroke:rgb(25,122,230);"/>
+        </g>
+        <g>
+            <path d="M197.374,14.0336C300.08,14.0336 383.34,97.2936 383.34,200C383.34,302.706 300.08,385.966 197.374,385.966C94.6676,385.966 11.4076,302.706 11.4076,200C11.4076,97.2936 94.6676,14.0336 197.374,14.0336Z" style="fill:none;stroke-width:6px;stroke:rgb(136,160,220);"/>
+        </g>
+        <g id="Layer1">
+            <g>
+                <text x="36.1787px" y="151.059px" style="font-family:Gill Sans;font-size:28px;font-weight:300;fill:black;">Listings Users</text>
+            </g>
+            <g>
+                <text x="402.061px" y="151.073px" style="font-family:Gill Sans;font-size:28px;font-weight:300;fill:black;">News Users</text>
+            </g>
+            <g>
+                <text x="246.898px" y="126.573px" style="font-family:Gill Sans;font-size:28px;font-weight:300;fill:black;">Common </text>
+                <text x="269.525px" y="154.573px" style="font-family:Gill Sans;font-size:28px;font-weight:300;fill:black;">Traits</text>
+            </g>
+            <g>
+                <text x="69.5596px" y="183.128px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">RT Reader </text>
+                <text x="69.5596px" y="201.128px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;"> </text>
+                <text x="69.5596px" y="219.128px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">Visits Site 4-5  </text>
+                <text x="69.5596px" y="237.128px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">times a week </text>
+                <text x="69.5596px" y="255.128px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">for listings </text>
+                <text x="69.5596px" y="273.128px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;"> </text>
+                <text x="69.5596px" y="291.128px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">45+ years old</text>
+            </g>
+            <g>
+                <text x="404.22px" y="183.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">Comes to the site </text>
+                <text x="404.22px" y="201.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">via google </text>
+                <text x="404.22px" y="219.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;"> </text>
+                <text x="404.22px" y="237.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">Usually after news </text>
+                <text x="404.22px" y="255.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">content </text>
+                <text x="404.22px" y="273.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;"> </text>
+                <text x="404.22px" y="291.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">25-40 years old</text>
+            </g>
+            <g>
+                <text x="233.779px" y="183.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">Sets self reminders </text>
+                <text x="300px" y="201.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;"> </text>
+                <text x="255.514px" y="219.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">Young &amp; old </text>
+                <text x="257.742px" y="237.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">want listings </text>
+                <text x="300px" y="255.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;"> </text>
+                <text x="276.568px" y="273.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">Wants  </text>
+                <text x="258.643px" y="291.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">recommen- </text>
+                <text x="274.688px" y="309.137px" style="font-family:Gill Sans;font-size:18px;font-weight:300;fill:black;">dations</text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+.info img {
+	max-width:600px;
+}
+.narrow img {
+	width:30%;
+}
+#background {
+	display: block;
+	margin:0 auto;
+	height:300px;
+	width:80%;
+	border:3px solid black;
+}
