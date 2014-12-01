@@ -275,16 +275,19 @@ h5 {
 	margin-top: 0;
 }
 .left {
+	overflow:hidden;
 	display:inline-block;
 	vertical-align: top;
 	width:33.3%;
 }
 .middle {
+	overflow:hidden;
 	display:inline-block;
 	vertical-align: top;
 	width:33.3%;
 }
 .right {
+	overflow:hidden;
 	display:inline-block;
 	vertical-align: top;
 	width:33.3%;
@@ -304,7 +307,6 @@ h5 {
 	margin:0 auto;
 }
 .icon img {
-	overflow:hidden;
 	height:100px;
 }
 
