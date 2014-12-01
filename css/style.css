@@ -601,17 +601,17 @@ h5 {
 	}
 
 	.surround {
-		width:320px;
+		width:100%;
 		margin-top: 25px;		
 	}
 
 	.topnav {
-		width:320px;
+		width:100%;
 		height:70px;
 	}
 	.topnav ul li {
 	float:none;
-	margin:0 10px;
+	margin:0 100px;
 	text-align: center;
 	}
 	.topnav ul {
@@ -621,17 +621,17 @@ h5 {
 	text-align: center;
 	}
 	.startbox {
-		width:320px;
+		width:100%;
 		padding-top: 30px;
 	}
 	.part {
 		width:50%;
 	}
 	.info img {
-		width:320px;
+		width:100%;
 	}
 	.coretext {
-		width:320px;
+		width:100%;
 	}
 	.column1 {
 		width:100%;
@@ -664,7 +664,7 @@ h5 {
 	}
 
 	p {
-		max-width: 300px;
+		max-width: 90%;
 	}
 	.wire .wire5 {
 		display:none;
