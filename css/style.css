@@ -323,6 +323,16 @@ h5 {
  .space{
 	margin-bottom:0;
 }
+#download {
+	display: block;
+	font-size: 18pt;
+	text-align: center;
+}
+
+#download	a:hover,
+a:focus {
+	color: rgb(136,160,220);
+}
 
 @media all and (min-width: 481px) and (max-width: 780px) {
 	body {
