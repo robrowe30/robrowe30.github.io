@@ -11,3 +11,34 @@
 	width:80%;
 	border:3px solid black;
 }
+
+@media only screen and (min-device-width: 1px) and (max-device-width: 667px) and (orientation : portrait){
+	.coretext p {
+		width:90%;
+		font-size: 32pt;
+		text-align: justify;
+	}
+	h4.solution {
+		display: block;
+		margin-left: 0;
+		margin-bottom: 30px;
+		text-align: center;
+		font-size: 52pt;
+	}
+	.surround {
+		padding-top: 130px;
+	}
+	div.info img {
+		margin:0;
+		max-width: 100%;
+		width:100%;
+	}
+	#background {
+	background:url(../images/background5.jpg); 
+	display: block;
+	margin:0 auto;
+	height:300px;
+	width:80%;
+	border:none;
+	}
+}

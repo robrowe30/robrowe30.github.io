@@ -31,3 +31,98 @@
 #column {
 	margin-top: 0px;
 }
+@media only screen and (min-device-width: 1px) and (max-device-width: 667px) and (orientation : portrait){
+	#interview {
+		width:100%;
+	}
+	#persona {
+		display: none;
+	}
+	img#about{
+		width:100%;
+		background:rgba(255,255,255,0.7);
+	}
+	.coretext p {
+		width:90%;
+		font-size: 32pt;
+		text-align: justify;
+	}
+	#finalpic {
+		width:80%;
+	}
+	.prototype a{
+		font-size: 52pt;
+		margin:30px auto;
+	}
+	.part {
+		width:50%;
+	}
+	.part p{
+		font-size: 32pt;
+	}
+	.part h2{
+		font-size: 50pt;
+	}
+	.column1{
+	width:100%;
+	}
+	.column1 p{
+		margin-left: 0;
+		width:90%;
+		display: block;
+		margin:0 auto 60px;
+		font-size: 32pt;
+	}
+	h4.solution {
+		display: block;
+		margin-left: 0;
+		margin-bottom: 30px;
+		text-align: center;
+		font-size: 52pt;
+	}
+	.surround {
+		padding-top: 230px;
+	}
+	.column2 {
+		display: block;
+		margin: 20px auto;
+		width:100%;
+	}
+	.column2 img{
+		width:80%;
+	}
+	.boxfidelity {
+		width:100%;
+	}
+	p.boxfidelity {
+		width:90%;
+		font-size: 32pt;
+		display: block;
+		margin:0 auto;
+	}
+	img.wire5 {
+		display: none;
+	}
+	.test{
+		width:60%;
+		height:1000px;
+	}
+	.wire img{
+		max-width: 100%;
+	}
+	#cycle_container {
+	position: absolute;
+	top: 170px;
+	left: 60px;
+	height:65%;
+	width:74%;
+	display:block;
+	}
+	#cycle_container img {
+	width: 100%;
+	height: 100%;
+	}
+	.wire6 img {
+		width:60%;
+	}
+}
