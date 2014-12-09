@@ -257,9 +257,7 @@ h5 {
 	text-align: center;
 	margin-bottom: 30px;
 }
-.webdesign {
-	padding-top: 100px;
-}
+
 .webdesign h4 {
 	margin-top: 0;
 }
@@ -383,7 +381,7 @@ a:focus {
 	.surround {
 	width:100%;
 	box-shadow: none;		
-	padding-top: 170px;
+	padding-top: 200px;
 	}
 	a {
 	font-size: 52pt;
@@ -477,7 +475,7 @@ a:focus {
 	height:250px;
 	}
 	.webdesign h4 {
-	margin-top: 30px;
+	margin-top: 90px;
 	}
 	#download {
 		margin-top: 30px;
