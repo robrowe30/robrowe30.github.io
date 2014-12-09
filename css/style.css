@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	background: url(../images/background/overlay2.svg), 
-	url(../images/background/background2.jpg);
+	url(../images/background/background3.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: right bottom, left top;
@@ -341,6 +341,9 @@ a:focus {
 }
 .right a {
 	color:black;
+}
+#examplebackground {
+	max-height: 300px;
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {

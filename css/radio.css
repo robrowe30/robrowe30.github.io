@@ -34,6 +34,14 @@
 #startprime {
 	margin-top:0;
 }
+.prototype a {
+			color:black;
+}
+.prototype a:hover,
+a:focus {
+	color: rgb(136,160,220);
+}
+
 @media only screen and (min-device-width: 1px) and (max-device-width: 667px) and (orientation : portrait){
 	#interview {
 		width:100%;
