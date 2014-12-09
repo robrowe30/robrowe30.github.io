@@ -6,6 +6,7 @@ h2 {
 
 .me {
 	position:relative;
+	margin-top: -55px;
 }
 
 .pic{
@@ -46,7 +47,7 @@ h2 {
 .pictop {
 	padding-top: 70px;
 	padding-bottom: 30px;
-	background: rgba(255,255,255,0.8);
+	background: rgb(255,255,255);
 	border-top: 3px solid rgb(136,160,220);
 	border-bottom: 3px solid rgb(136,160,220);
 }
