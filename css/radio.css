@@ -41,6 +41,30 @@
 a:focus {
 	color: rgb(136,160,220);
 }
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+	img#interview{
+		width:75%;
+		display:block;
+		margin:0 auto;
+		border:none;
+	}
+	img#persona{
+		display:none;
+	}
+	img#about{
+		width:85%;
+		display:block;
+		margin:0 auto;
+		border:none;
+	}
+	img#finalpic{
+		width:60%;
+		display:block;
+		margin:0 auto;
+		border:none;
+	}
+}	
 
 @media only screen and (min-device-width: 1px) and (max-device-width: 667px) and (orientation : portrait){
 	#interview {

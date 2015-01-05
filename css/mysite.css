@@ -5,7 +5,13 @@
 	width:30%;
 }
 
-
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+	.info img {
+		max-width: none;
+		max-height: 800px;
+		width:100%;
+	}
+}
 @media only screen and (min-device-width: 1px) and (max-device-width: 667px) and (orientation : portrait){
 	.coretext p {
 		width:90%;
