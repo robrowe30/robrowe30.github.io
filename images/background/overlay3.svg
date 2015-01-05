@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1280px" height="800px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <g id="Layer1">
+            <g>
+                <path d="M842.607,986.237L759.73,903.36L1399.26,263.83L1482.14,346.707L842.607,986.237Z" style="fill:black;fill-opacity:0.203922;"/>
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-659.406,199.496)">
+                <text x="941.779px" y="1549.22px" style="font-family:Helvetica Neue;font-size:33.3333px;font-weight:100;fill:white;">Rob UX Designer</text>
+            </g>
+            <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-659.406,199.496)">
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-668.402,222.542)">
+                <text x="965.1px" y="1571.6px" style="font-family:Helvetica Neue;font-size:21.3333px;font-weight:300;fill:white;">r<tspan x="971.436px 983.297px 995.542px 1001.88px 1013.74px ">obrow</tspan>e30@gmail.com</text>
+            </g>
+        </g>
+    </g>
+</svg>
