@@ -39,7 +39,7 @@
 }
 .prototype a:hover,
 a:focus {
-	color: rgb(136,160,220);
+	color: rgb(31,167,245);
 }
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 
